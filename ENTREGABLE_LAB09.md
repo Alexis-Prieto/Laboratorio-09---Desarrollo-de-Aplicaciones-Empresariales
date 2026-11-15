@@ -497,7 +497,29 @@ git commit -m "feat: lab09 react revisado por pruebas"
 git branch -M main
 ```
 
-No se hizo push (lo hace el alumno).
+## Anexo — Capturas (EVIDENCIAS)
+
+<img width="1452" height="722" alt="image" src="https://github.com/user-attachments/assets/e5411c29-a736-48c1-8337-63fccbc9702c" />
+
+<img width="1465" height="692" alt="image" src="https://github.com/user-attachments/assets/dd8b7402-98a6-4c5e-890c-5c58c8522137" />
+
+<img width="1222" height="686" alt="image" src="https://github.com/user-attachments/assets/88401759-2515-4cdf-8927-2ae128a1713a" />
+
+<img width="1465" height="760" alt="image" src="https://github.com/user-attachments/assets/026ba534-f304-4f14-83b3-7bddbe6248ff" />
+
+<img width="1220" height="687" alt="image" src="https://github.com/user-attachments/assets/6fd1a342-c4e9-42ba-9f6f-671f91d2a3e8" />
+
+<img width="1450" height="427" alt="image" src="https://github.com/user-attachments/assets/c87c4d3a-d3de-4584-b14b-c954f3adb101" />
+
+<img width="1457" height="495" alt="image" src="https://github.com/user-attachments/assets/333f429e-49f9-46c3-b16d-d3cddb29840b" />
+
+<img width="1201" height="731" alt="image" src="https://github.com/user-attachments/assets/f1ec3134-b671-4117-b31b-abbcfea933bf" />
+
+<img width="1085" height="692" alt="image" src="https://github.com/user-attachments/assets/ff9dad30-23d9-4630-a2ce-2c24289c4019" />
+
+<img width="1065" height="702" alt="image" src="https://github.com/user-attachments/assets/b1a2fe35-b7fa-46fe-a35f-757ce812d7e2" />
+
+<img width="1205" height="732" alt="image" src="https://github.com/user-attachments/assets/5eeca2d7-6bc4-430b-9893-31e4149af9f5" />
 ```
 ---
 
@@ -550,29 +572,7 @@ Ver Pasos 13 y 14. Resumen: datos de terceros (sinopsis) y mensajes de agentes n
 4. Las keys estables (id) son esenciales para preservar la identidad y el estado de los nodos en listas dinamicas.
 5. Consultar por roles y nombres accesibles hace las pruebas mas robustas que buscar por clases CSS.
 
-## Anexo — Capturas (EVIDENCIAS)
 
-<img width="1452" height="722" alt="image" src="https://github.com/user-attachments/assets/e5411c29-a736-48c1-8337-63fccbc9702c" />
-
-<img width="1465" height="692" alt="image" src="https://github.com/user-attachments/assets/dd8b7402-98a6-4c5e-890c-5c58c8522137" />
-
-<img width="1222" height="686" alt="image" src="https://github.com/user-attachments/assets/88401759-2515-4cdf-8927-2ae128a1713a" />
-
-<img width="1465" height="760" alt="image" src="https://github.com/user-attachments/assets/026ba534-f304-4f14-83b3-7bddbe6248ff" />
-
-<img width="1220" height="687" alt="image" src="https://github.com/user-attachments/assets/6fd1a342-c4e9-42ba-9f6f-671f91d2a3e8" />
-
-<img width="1450" height="427" alt="image" src="https://github.com/user-attachments/assets/c87c4d3a-d3de-4584-b14b-c954f3adb101" />
-
-<img width="1457" height="495" alt="image" src="https://github.com/user-attachments/assets/333f429e-49f9-46c3-b16d-d3cddb29840b" />
-
-<img width="1201" height="731" alt="image" src="https://github.com/user-attachments/assets/f1ec3134-b671-4117-b31b-abbcfea933bf" />
-
-<img width="1085" height="692" alt="image" src="https://github.com/user-attachments/assets/ff9dad30-23d9-4630-a2ce-2c24289c4019" />
-
-<img width="1065" height="702" alt="image" src="https://github.com/user-attachments/assets/b1a2fe35-b7fa-46fe-a35f-757ce812d7e2" />
-
-<img width="1205" height="732" alt="image" src="https://github.com/user-attachments/assets/5eeca2d7-6bc4-430b-9893-31e4149af9f5" />
 
 
 
